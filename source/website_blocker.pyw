@@ -42,7 +42,7 @@ while True:
                 file.truncate() #apaga tudo para baixo no documento
                 
                
-    time.sleep(30) #faz o programa esperar 5 segundos
+    time.sleep(30) #faz o programa esperar 30 segundos
     
 """
  how to configure the Schedule Task on windows
