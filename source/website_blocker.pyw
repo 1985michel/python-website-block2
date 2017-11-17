@@ -44,16 +44,5 @@ while True:
                
     time.sleep(30) #faz o programa esperar 30 segundos
     
-"""
- how to configure the Schedule Task on windows
 
-i) In "Program/script", browse the file path of pythonw.exe (e.g. C:\Users\Me\Desktop\pythonw.exe)
-
-ii) In "Add arguments (optional)", put in the file name of your script (e.g. website_blocker.pyw)
-
-iii) In "Start in (optional)", put in the file path of the folder that contains your script (e.g. C:\Users\Me\Desktop\Folder)
-
-I got the solution from here: https://stackoverflow.com/questions/44727232/scheduling-a-py-file-on-task-scheduler-in-windows-10
-
-"""
 
